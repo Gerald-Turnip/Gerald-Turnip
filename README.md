@@ -4,14 +4,14 @@
 
 **Author:** Janek Mazur  
 **Date:** June 18, 2025  
-**Subject:** Corruption, Financial Misconduct & Abuse of Power in Gdańsk cultural institutions - Fundacja Wspólnota Gdańsk/Oliwski Ratusz Kultury & Akademia Muzyczna w Gdańsku
+**Subject:** Corruption, Financial Misconduct & Abuse of Power in Gdańsk Cultural Institutions - Fundacja Wspólnota Gdańsk/Oliwski Ratusz Kultury & Akademia Muzyczna w Gdańsku
 
 ---
 
 ## Introduction
 
-Sopot, Poland – June 18, 2025:
-This report details a series of disturbing events and alleged systemic irregularities within prominent cultural and academic institutions in Gdańsk, Poland. What began as a dispute over a concert has escalated into a comprehensive account of alleged financial impropriety, abuse of power, psychological coercion, and attempts to silence a student and artist. If this was an innocent business with nothing to hide, I would have been ignored or kindly informed. Instead, I was met with aggression, police intervention, alleged ‘stalking’ at the station, and fabricated counter-accusations — all because I went to a publicly listed business address to verify its status. This expose aims to shed light on practices that, if true, undermine the integrity of public benefit organizations and the artistic community in Gdańsk.
+**Sopot, Poland – June 18, 2025**:
+This report details a series of disturbing events and alleged systemic irregularities within prominent cultural and academic institutions in Gdańsk, Poland. What began as a dispute over a concert has escalated into a comprehensive account of alleged financial impropriety, abuse of power, coercion, and attempts to silence a student and artist. If this was an innocent business with nothing to hide, I would have been ignored or kindly informed. Instead, I was met with aggression, hostility, and fabricated counter-accusations — all because I went to a publicly listed business address to verify its status. This exposé aims to shed light on practices that, if true, undermine the integrity of public benefit organizations and the artistic community in Gdańsk.
 
 ***
 # The Report
@@ -26,7 +26,21 @@ During this phone call, Mr. Stańko's demeanor was intensely aggressive and conf
 
 Following this alarming phone call, and seeking a verifiable record of his demands, I **explicitly** asked Mr. Stańko to put his position in an **email**. To my amazement, *he complied*, sending an email on May 18, 2025, at 12:46 PM [Source: original stanko email threat Gmail - Johnny Mazur - Concert 28.06.2025.pdf]. This email, though somewhat lighter in tone, *still confirmed his aggressive demands and threats of financial penalties exceeding 800 PLN if I did not cancel the Sopot concert* all of which directly led to my public Facebook post on May 19, 2025. Had he not sent this damning email, none of these subsequent events would have transpired.
 
-This exploitative demand for exclusivity, coupled with the threat of financial penalties, was not part of any prior agreement, nor were the conditions formally presented, and quite frankly was so utterly vile that I was shocked. I’ve dealt with some terrible people in my life, some of which were convicts and psychopaths, and even this guy, Andrzej, who was just *on the phone* with me and yet I could practically feel his spittle on my neck from his shouting. My initial contact with ORK in November 2024 involved a general discussion with Ewa Labenz about available dates and a standard 80/20 ticket split for a 100-person venue, with further details to be discussed closer to the concert date. No formal contract was signed or fully agreed upon prior to Andrzej Stańko's aggressive demands. Crucially, I allege that Mr. Stańko, despite ORK's public-facing role, attempted to impose private, non-negotiable, and ***illegal*** terms.
+This exploitative demand for exclusivity, coupled with the threat of financial penalties, was not part of any prior agreement, nor were the conditions formally presented, and quite frankly was so utterly vile that I was shocked. In my life, I’ve dealt with difficult and even dangerous people — but I’ve rarely encountered the kind of unprovoked hostility I experienced in that call. Though he was only on the phone, the level of rage was so intense it felt as though he was shouting into my ear from across the table. My initial contact with ORK in November 2024 involved a general discussion with Ewa Labenz about available dates and a standard 80/20 ticket split for a 100-person venue, with further details to be discussed closer to the concert date. No formal contract was signed or fully agreed upon prior to Andrzej Stańko's aggressive demands. Crucially, I allege that Mr. Stańko, despite ORK's public-facing role, attempted to impose private, non-negotiable, and ***illegal*** terms.
+
+Andrzej Stańko, attempted to unilaterally change terms previously agreed upon.
+
+- Here's why, in clear terms under Polish law:
+
+  - **A Contract Was Formed**: The email exchange between myself and Ewa Labenz from October 27, 2024, to November 7, 2024, established a legally binding contract for the concert on June 28, 2025. Polish law allows for contracts to be formed through clear offer and acceptance, even if not in a formal paper document. Ewa Labenz, as a coordinator for ORK, made an offer with specific terms (80/20 revenue split from ticket sales, ticket price range, hall capacity, date), and you clearly accepted these terms by confirming the date.
+
+  - **Unilateral Attempt to Change Terms**: Andrzej Stańko's email on May 18, 2025, introduced new conditions and a different financial split (70/30 or 800 PLN flat fee for dual performances). This directly contradicts the 80/20 split already agreed upon in the initial, valid contract.
+
+  - **Invalidity of Unilateral Change**: Under Polish law, a contract can only be changed with the mutual consent of both parties (Article 77 § 1 Civil Code). One party cannot simply change the terms on their own.
+
+  - **Threat of Resignation**: Andrzej Stańko's statement, " *Brak odpowiedzi do wtorku 20.05 potraktuję jako Pana rezygnację z zagrania koncertu w ORK* " ( *Lack of response by Tuesday 20.05 will be treated as your resignation from playing the concert at ORK* ), is an attempt to impose a new condition on an existing agreement. Any silence in response to this unilateral demand does not automatically mean one agreed to the new terms or that one has resigned from the original, valid contract.
+
+Therefore, from a legal standpoint in Poland, Andrzej Stańko's email, proposing terms contrary to the established contract and attempting to force a decision under threat of "resignation," appears to be an attempted breach of the existing agreement and an invalid unilateral modification of the contract.
 
 ## Initial Public Statement: The Catalyst
 
