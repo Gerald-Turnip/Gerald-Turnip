@@ -4,7 +4,7 @@
 
 **Author:** Janek Mazur  
 **Date:** June 18, 2025  
-**Subject:** Corruption, Financial Misconduct & Abuse of power in Gdańsk cultural institutions - Fundacja Wspólnota Gdańsk/Oliwski Ratusz Kultury & Akademia Muzyczna w Gdańsku
+**Subject:** Corruption, Financial Misconduct & Abuse of Power in Gdańsk cultural institutions - Fundacja Wspólnota Gdańsk/Oliwski Ratusz Kultury & Akademia Muzyczna w Gdańsku
 
 ---
 
@@ -146,6 +146,9 @@ The Foundation's own Statut (Bylaws) state its statutory goals include cultural 
 
 # The Żukowo Incident & Investigation of *STANJO*
 The most alarming incident occurred on June 6, 2025, at the location of Andrzej Stańko's registered business in Lniska, Żukowo. This incident demonstrates a dangerous escalation of behavior and is a huge pillar in the case.
+- Link to CEIDG [STANJO - Centralna Ewidencja i Informacja o Działalności Gospodarczej Rzeczypospolitej](https://www.biznes.gov.pl/pl/wyszukiwarka-firm/wpis/ceidg/3B09072E-B5C5-4F73-AA49-3CC64BE4035F)
+- Officially registered address according to ***public, governmental records***:
+  - ul. Brzozowa 14, 83-330 Lniska, pow. kartuski, gm. Żukowo, woj. POMORSKIE, Polska
 
 - ### Suspicious Business Changes *STANJO*:
 My investigation revealed a drastic "makeover" of STANJO Andrzej Stańko's business registration (NIP: 5841511428) in the Central Register and Information on Economic Activity (CEIDG). The business appears to be a marital co-ownership, seemingly existing primarily on paper without a clear public presence beyond its CEIDG listing. Shortly after my first formal report to the prosecutor on May 22, 2025, the predominant PKD code was allegedly changed from artistic performance support (90.02.Z) to retail sale of motor vehicles (47.81.Z), and the business activity was suspended on June 1, 2025 [Source: Previous reports to prosecutors, CEIDG printouts from May 25 and June 3, 2025]. This sudden and radical shift, after two years of no changes, strongly suggests an attempt to conceal evidence or evade accountability related to the ongoing investigation.
