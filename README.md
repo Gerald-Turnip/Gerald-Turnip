@@ -203,8 +203,18 @@ I have systematically reported these incidents and allegations to multiple prose
 
 This is not merely a personal dispute; it is an attempt to expose alleged corruption, abuse of power, and systemic failures within institutions that should serve the public and nurture artistic talent. My objective is to uncover the truth, ensure accountability, and prevent others from experiencing similar traumatic situations. The pursuit of justice will continue.
 
-A Striking Contrast: Professionalism vs. Chaos
-In stark contrast to the aggression and alleged coercion I have faced from ORK and Andrzej Stańko, I recently experienced how easily similar logistical concerns can be resolved with professionalism. In a separate instance with another venue, I raised concerns about ticket price deductions and technician costs in one polite email. The venue responded respectfully, offering a reasonable compromise, and an agreement was reached within just over an hour. This incident involved no threats, no gaslighting, no fabricated contracts, no prosecutors, no police, and no destroyed reputations. It highlights that the current scandal was entirely avoidable, had a professional approach been taken from the outset.
+***
+
+#### A Striking Contrast: Professionalism vs. Chaos ####
+In stark contrast to the aggression and alleged coercion I have faced from ORK and Andrzej Stańko, I recently experienced how easily similar logistical concerns can be resolved with some manners and a bit of professionalism. In a separate instance with another venue, I raised concerns about ticket price deductions and technician costs in one polite email. The venue responded respectfully, offering a reasonable compromise, and an mutually beneficial agreement was reached within just over an hour. 
+
+*One hour*
+*One email each*
+*Done.*
+
+This incident involved no threats, no gaslighting, no fabricated contracts, no prosecutors, no police, and no destroyed reputations. It highlights that the current scandal was entirely avoidable, had a professional approach been taken from the outset.
+
+***
 
 ## 💬 Final Note
 
