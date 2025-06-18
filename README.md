@@ -2,8 +2,8 @@
 
 ## 🎤 The Exposé: A Public Statement
 
-**Author:** Johnny (Janek) Mazur  
-**Date:** June 17, 2025  
+**Author:** Janek Mazur  
+**Date:** June 18, 2025  
 **Subject:** Abuse of power in Gdańsk cultural institutions
 
 ---
@@ -14,7 +14,7 @@ Sopot, Poland – June 18, 2025 – This report details a series of disturbing e
 
 # The Report
 
-*The genesis of this investigation lies in a planned concert at Oliwski Ratusz Kultury (ORK), a venue operating under the Fundacja Wspólnota Gdańska. On May 19, 2025, I made the difficult decision to cancel my scheduled performance. This decision was a direct consequence of an aggressive and threatening phone call received on May 16, 2025, from Andrzej Stańko, the ORK Coordinator of Scenic Events.*
+*The genesis of this investigation lies in a planned concert at Oliwski Ratusz Kultury (ORK), a venue operating under the Fundacja Wspólnota Gdańska. On May 19, 2025, after making the decision to cancel my scheduled performance, I decided to publicly post and protest the treatment. This decision was a direct consequence of an aggressive and threatening phone call received on May 16, 2025, from Andrzej Stańko, the ORK Coordinator of Scenic Events.*
 
 ### The Concert Controversy: Threats and Alleged Coercion
 
@@ -22,7 +22,7 @@ During this phone call, Mr. Stańko's demeanor was intensely aggressive and conf
 
 Following this alarming phone call, and seeking a verifiable record of his demands, I **explicitly** asked Mr. Stańko to put his position in an **email**. To my amazement, *he complied*, sending an email on May 18, 2025, at 12:46 PM [Source: original stanko email threat Gmail - Johnny Mazur - Concert 28.06.2025.pdf]. This email, though somewhat lighter in tone, *still confirmed his aggressive demands and threats of financial penalties exceeding 800 PLN if I did not cancel the Sopot concert* all of which directly led to my public Facebook post on May 19, 2025. Had he not sent this damning email, none of these subsequent events would have transpired.
 
-This exploitative demand for exclusivity, coupled with the threat of financial penalties, was not part of any prior agreement, nor were the conditions formally presented, and quite frankly was so utterly vile that I was shocked. I’ve dealt with some terrible people in my life, some of which were convicts and psychopaths, and even this guy, Andrzej, who was just *on the phone* with me and yet I could practically feel his spittle on my neck from his shouting. My initial contact with ORK in November 2024 involved a general discussion with Ewa Labenz about available dates and a standard 80/20 ticket split for a 100-person venue, with further details to be discussed closer to the concert date. No formal contract was signed or fully agreed upon prior to Andrzej Stańko's aggressive demands. Crucially, I allege that Mr. Stańko, despite ORK's public-facing role, attempted to impose private, non-negotiable, and illegal terms.
+This exploitative demand for exclusivity, coupled with the threat of financial penalties, was not part of any prior agreement, nor were the conditions formally presented, and quite frankly was so utterly vile that I was shocked. I’ve dealt with some terrible people in my life, some of which were convicts and psychopaths, and even this guy, Andrzej, who was just *on the phone* with me and yet I could practically feel his spittle on my neck from his shouting. My initial contact with ORK in November 2024 involved a general discussion with Ewa Labenz about available dates and a standard 80/20 ticket split for a 100-person venue, with further details to be discussed closer to the concert date. No formal contract was signed or fully agreed upon prior to Andrzej Stańko's aggressive demands. Crucially, I allege that Mr. Stańko, despite ORK's public-facing role, attempted to impose private, non-negotiable, and ***illegal*** terms.
 
 ## Initial Public Statement: The Catalyst
 
@@ -48,7 +48,6 @@ Bo mam ZERO TOLERANCJI dla mobbingu, zastraszania i finansowego wymuszania w imi
 Wybieram uczciwość zamiast uległości.
 I nie będę wspierał instytucji, które nadużywają swojej pozycji.
 📎 Zrzut ekranu w komentarzu.
-
 🇬🇧 I regret to announce the cancellation of my concert at Oliwski Ratusz Kultury (ORK), scheduled for June 28.
 Why? Because I was threatened with financial penalties of over 800 złotych unless I cancelled another concert scheduled the night before in Sopot.
 Yes. Really.
@@ -71,7 +70,7 @@ Following my initial public statement regarding the concert cancellation, both A
 Krystyna Stańko, responding publicly to the situation, wrote: 
 
 > *Drodzy, jak wiecie zawsze leży mi na sercu dobro młodych artystów. Niejednokrotnie razem z moim mężem Andrzej Stańko wspieraliśmy, pomagaliśmy, wiedząc, jak trudne jest życie muzyka. Robiliśmy to z dobrego serca... Niestety od dwóch dni jeden z młodych muzyków uprawia straszliwy czarny PR, nie wymienię jego nazwiska, bo posty krytykujące mojego męża na stronie tej osoby wreszcie mają zasięgi. Może właśnie o to chodzi, żeby zaistnieć? Gdy mój mąż chciał napisać swój komentarz i wyjaśnić sprawę, został przez niego zablokowany. Ów młody muzyk straszy prokuraturą, twierdzi, że powiadomił instytucje oraz media w mieście itp. Szkaluje dobre imię mojego męża i rozpowszechnia nieprawdziwe treści. Cóż, chciał zagrać dwa koncerty w oddalonych od siebie o 5 km miejscach w bardzo bliskim terminie, o czym mój mąż dowiedział się nie od niego, lecz z internetu. Aby nie odwoływać koncertu, na który sprzedało się bardzo mało biletów, Andrzej Stańko szukał rozwiązania, zaproponował wynajem sali z akustykiem, za symboliczną kwotę 800 zł (!). Czy to dużo? Z pewnością nie, w sumie miał prawo odwołać ten koncert wobec postawy muzyka, który nie poinformował organizatora o planie zagrania kolejnego koncertu tak blisko. Wbrew temu, co udostępnia muzyk, miejsce w którym pracuje mój mąż nie ma dotacji do koncertów i nie jest instytucją miejską. Jestem wstrząśnięta zachowaniem muzyka, w sumie ręce mi opadają, bo zawsze wierzyłam, że tworzymy jakąś wspólnotę, wspieramy się i szanujemy... A do Was, którzy polubiliście jego post mam pytanie, czy uważacie jego zachowanie za słuszne? Bo jeśli tak, to tracę wiarę w sens i misję wspierania młodych artystów... zwyczajnie po ludzku mi przykro.*
-[link to photo]
+- [link to photo]
 
 **(EN)**
 
@@ -113,35 +112,28 @@ The pattern of alleged financial discrepancies suggests a potential scheme of "s
 
 - If this theory proves true, it could constitute serious offenses under Polish law, including:
 
-  - art. 190§1 kk – Criminal threat
-  - art. 216§1 kk – Insult / Defamation
-  - art. 286§1 kk – Fraud
-  - art. 191 kk – Coercion / Extortion
-  - art. 231§1 kk – Abuse of power by a public official
-- and more...
+  - **art. 190§1 kk – Criminal threat**
+  - **art. 216§1 kk – Insult / Defamation**
+  - **art. 286§1 kk – Fraud**
+  - **art. 191 kk – Coercion / Extortion**
+  - **art. 231§1 kk – Abuse of power by a public official**
+- and *more...*
 
-# The Impossible Equation: Where Did the Millions Come From?
+# The Impossible Equation: *Where Did the Millions Come From?*
 Analysis of Wspólnota Gdańska's reported income (e.g., 3,362,246.05 PLN total income in 2023, with only ~299,200 PLN from city grants and 4,034.44 PLN from 1.5% PIT donations) reveals a significant gap of over 1 million PLN between public funds and reported earnings that remains unexplained. If they did not secure major national or EU grants, list corporate donors, show transparent attendance revenue, or report large private income sources, then the source of these millions is highly suspicious. Despite significant payroll expenditures (over 1.5M PLN in wages paid to 127 people in 2023), artists reportedly remain unpaid, suggesting money flows but not to the cultural value creators. This points towards undeclared income or shadow operations, potentially through means such as:
 
-*Shadow contracting via STANJO (now suspended).*
-
-*Commercial use of publicly funded cultural infrastructure (weddings, rentals, film shoots) disguised as "community events."*
-
-*Donation laundering through non-transparent sources.*
-
-*"Ghost events" or fabricated program results to justify income.*
-
-*ORK's Empty Calendar: A "Clown Nose of a Red Flag"*
+- *Shadow contracting via STANJO (now suspended).*
+- *Commercial use of publicly funded cultural infrastructure (weddings, rentals, film shoots) disguised as "community events."*
+- *Donation laundering through non-transparent sources.*
+- *"Ghost events" or fabricated program results to justify income.*
+- *ORK's Empty Calendar: A "Clown Nose of a Red Flag"*
 
 Beyond specific incidents, a significant red flag regarding ORK's operational stability is the apparent complete lack of scheduled events after July 11, 2025. Mid-July marks the prime season for cultural events in Poland, and a venue priding itself on seasonal programming having no bookings after this period is highly unusual. This suggests several unflattering possibilities:
 
-Funding freeze or ongoing investigation: A whisper of financial misconduct or an audit could have led to a halt in bookings.
-
-Internal panic: Uncertainty about maintaining operations might lead them to avoid future obligations.
-
-Quiet disappearance preparation: A "fade into the mist" strategy, concluding public commitments and then ceasing to respond.
-
-Potential blacklisting: Word spreading among artists or institutions could be causing a decline in collaboration.
+- *Funding freeze*: A whisper of financial misconduct or an audit could have led to a halt in bookings.
+- *Internal panic*: Uncertainty about maintaining operations might lead them to avoid future obligations.
+- *Quiet disappearance preparation*: A "fade into the mist" strategy, concluding public commitments and then ceasing to respond.
+- *Potential blacklisting*: Word spreading among artists or institutions could be causing a decline in collaboration.
 
 The absence of future events when the calendar should be bustling is not business as usual; it points to either severe damage control or a ticking clock on their operations.
 
@@ -161,16 +153,16 @@ The complete puzzle suggests that ORK operates through Fundacja Wspólnota Gdań
 
 The Foundation's own Statut (Bylaws) state its statutory goals include cultural education for young residents of Gdańsk and supporting artistic activities, including promoting and organizing volunteer work. This directly contradicts the coercive tactics, threats, and manipulated finances alleged, implying violations of their legal and ethical mission. If proven, this could lead to their OPP status being revoked.
 
-# The Żukowo Incident & Investigation of STANJO
+# The Żukowo Incident & Investigation of *STANJO*
 The most alarming incident occurred on June 6, 2025, at the location of Andrzej Stańko's registered business in Lniska, Żukowo. This incident demonstrates a dangerous escalation of behavior and is a huge pillar in the case.
 
-- ### Suspicious Business Changes (STANJO):
+- ### Suspicious Business Changes *STANJO*:
 My investigation revealed a drastic "makeover" of STANJO Andrzej Stańko's business registration (NIP: 5841511428) in the Central Register and Information on Economic Activity (CEIDG). The business appears to be a marital co-ownership, seemingly existing primarily on paper without a clear public presence beyond its CEIDG listing. Shortly after my first formal report to the prosecutor on May 22, 2025, the predominant PKD code was allegedly changed from artistic performance support (90.02.Z) to retail sale of motor vehicles (47.81.Z), and the business activity was suspended on June 1, 2025 [Source: Previous reports to prosecutors, CEIDG printouts from May 25 and June 3, 2025]. This sudden and radical shift, after two years of no changes, strongly suggests an attempt to conceal evidence or evade accountability related to the ongoing investigation.
 
 - ### Aggression Witnessed by Police:
-On June 6, 2025, I conducted an on-site visit to the official address of the "STANJO Andrzej Stańko" business, located at ul. Brzozowej 14, 83-330 Lniska. This visit was prompted by suspicious changes to its business profile (from artistic services to motorcycle engine services, occurring on June 1), as well as the simultaneous suspension of its business activity. I filmed my entire time spent in the vicinity of the property.
+On June 6, 2025, I conducted an on-site visit to the official address of the "STANJO Andrzej Stańko" business, located at ul. Brzozowej 14, 83-330 Lniska. This visit was prompted by suspicious changes to its business profile (from artistic services to motorcycle engine services, occurring on June 1), as well as the simultaneous suspension of its business activity. ***I filmed my entire time spent in the vicinity of the property.***
 
-A strategic statement for the prosecutor details that after leaving the vicinity of the property at approximately 19:45-19:50, I walked directly to the bus stop. At 20:23, Krystyna Stańko attempted to contact my father, followed by a message claiming to be at the police station and expressing fear of me, despite no new interaction. At around 20:45, police arrived directly at the bus stop where I was alone. Within one minute, Andrzej Stańko arrived, followed by Krystyna and her son, suggesting coordinated tracking. At no point did I observe anyone watching from the windows or inside the house, indicating my presence was likely unknown until a neighbor's alert. This undercuts claims of me being threatening or lingering. My timeline of formal reports (starting May 22nd) is consistent, while Krystyna Stańko's later police filings appear reactive and an attempt to weaponize legal ambiguity.
+A statement I detailed for the prosecutor in one of my reports is that after leaving the vicinity of the property at approximately 19:45-19:50, I walked directly to the nearby bus stop. At around 20:45, police arrived directly at the bus stop where I was alone. Within one minute, Andrzej Stańko arrived, followed soon after by Krystyna and her son, suggesting coordinated tracking - i.e they were driving up and down that road and watching me until the police were there so they could try to entrap me. At no point did I observe anyone watching from the windows or inside the house, indicating my presence was likely unknown until a neighbor's alert. This undercuts claims of me being threatening or lingering. My timeline of formal reports (starting May 22nd) is consistent, while Krystyna Stańko's later police filings appear reactive and an attempt to weaponize legal ambiguity. Besides, *I was the only calm person and the police treated me very well,* and I am glad they were there to help me.
 
 Just moments after police officers observed and approached me (around 8:45 PM) – likely informed by a neighbor who relayed information to the Stańko family – Andrzej Stańko appeared on site in an extremely aggressive and dangerous manner. He drove into the bus bay against traffic, at high speed, nearly driving onto the pavement where I stood. He exited his car, yelling brutal insults ("Ty skurwysynu jebany!" - "You fucking bastard!"), and had to be physically restrained by uniformed police officers who had just arrived [Source: Janek Mazur's 6th Prosecutor Report, June 7, 2025]. The officers present were visibly concerned by his level of aggression and unpredictability; one even commented during transport to the police station: "the way this guy drove in was unbelievable."
 
