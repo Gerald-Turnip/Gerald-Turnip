@@ -4,7 +4,7 @@
 
 **Author:** Janek Mazur  
 **Date:** June 18, 2025  
-**Subject:** Abuse of power in Gdańsk cultural institutions
+**Subject:** Corruption, Financial Misconduct & Abuse of power in Gdańsk cultural institutions - Fundacja Wspólnota Gdańsk/Oliwski Ratusz Kultury & Akademia Muzyczna w Gdańsku
 
 ---
 
@@ -12,7 +12,9 @@
 
 Sopot, Poland – June 18, 2025 – This report details a series of disturbing events and alleged systemic irregularities within prominent cultural and academic institutions in Gdańsk, Poland. What began as a dispute over a concert has escalated into a comprehensive account of alleged financial impropriety, abuse of power, psychological coercion, and attempts to silence a student and artist. If this was an innocent business with nothing to hide, I would have been ignored or kindly informed. Instead, I was met with aggression, police intervention, alleged ‘stalking’ at the station, and fabricated counter-accusations — all because I went to a publicly listed business address to verify its status. This expose aims to shed light on practices that, if true, undermine the integrity of public benefit organizations and the artistic community in Gdańsk.
 
+***
 # The Report
+***
 
 *The genesis of this investigation lies in a planned concert at Oliwski Ratusz Kultury (ORK), a venue operating under the Fundacja Wspólnota Gdańska. On May 19, 2025, after making the decision to cancel my scheduled performance, I decided to publicly post and protest the treatment. This decision was a direct consequence of an aggressive and threatening phone call received on May 16, 2025, from Andrzej Stańko, the ORK Coordinator of Scenic Events.*
 
@@ -48,19 +50,6 @@ Bo mam ZERO TOLERANCJI dla mobbingu, zastraszania i finansowego wymuszania w imi
 Wybieram uczciwość zamiast uległości.
 I nie będę wspierał instytucji, które nadużywają swojej pozycji.
 📎 Zrzut ekranu w komentarzu.
-🇬🇧 I regret to announce the cancellation of my concert at Oliwski Ratusz Kultury (ORK), scheduled for June 28.
-Why? Because I was threatened with financial penalties of over 800 złotych unless I cancelled another concert scheduled the night before in Sopot.
-Yes. Really.
-This came from Andrzej Stańko, Koordynator Wydarzeń Scenicznych at ORK — part of Fundacja Wspólnota Gdańsk, a public NGO meant to support the arts.
-He demanded exclusivity — not for artistic reasons, but because “the venues are 5 km apart.”
-He said I could play both only if I gave up nearly all proceeds from ticket sales.
-💸 That’s not collaboration. That’s coercion.
-This isn’t just about me — it disrespects the wider artistic community, especially young musicians doing their diploma recitals in these very venues.
-I’ve reported this incident — with screenshots — to multiple cultural institutions, city departments, and academic bodies.
-Because I have a ZERO TOLERANCE policy for gatekeeping, bullying, and financial blackmail dressed up as “cooperation.”
-I’m choosing integrity over intimidation.
-I won’t support institutions that exploit their position to threaten artists.
-📎 Screenshot in the comments.
 #supportartistsrtists #MusicNotMonopoly #ArtWithoutExploitation #CancelBlackmail #CulturalIntegrity #oliwskiratuszkultury"
 
 - ## Response and Counter-Allegations by the Stańkos
@@ -78,7 +67,10 @@ Krystyna Stańko, responding publicly to the situation, wrote:
 Unfortunately, for the past two days, one young musician has been conducting a vicious smear campaign. I won’t mention his name, since the posts attacking my husband on this person’s page are finally gaining reach. Maybe that’s the whole point — to get noticed? When my husband wanted to comment and clarify the situation, he was blocked. This young musician is now threatening with the prosecutor’s office, claiming he has informed institutions and the media, etc. He’s slandering my husband’s good name and spreading false information. Well, he wanted to perform two concerts in venues 5 km apart, within a very short time frame — something my husband learned not from him, but from the internet. To avoid canceling the concert (for which very few tickets were sold), Andrzej Stańko tried to find a solution. He proposed renting the hall with an acoustic technician for a symbolic amount — 800 zł (!). Is that a lot? Certainly not. In fact, he had every right to cancel the concert, considering the musician’s stance and the fact he didn’t inform the organizer about planning another show so nearby. Contrary to what the musician is sharing, the venue where my husband works does not receive subsidies for concerts and is not a city-run institution. I’m shaken by the musician’s behavior — frankly, I’m at a loss, because I always believed we were building a kind of community together, one where we support and respect each other… And to those of you who liked his post, I ask — do you think his behavior is justified? Because if so, I’m beginning to lose faith in the purpose and mission of supporting young artists… I'm simply, humanly, heartbroken.*
 
  - ### *Andrzej Stańko's Deleted Facebook Comment (May 19, 2025, 11 AM)*:
-Andrzej Stańko publicly commented: "Szanowny Panie, po pierwsze scena Oliwskiego Ratusza Kultury utrzymuje się z biletów, a nie z pieniędzy publicznych. Na Pana koncert sprzedało się 5 biletów! Nie poinformował nas Pan, że zaplanowany jest Pana kolejny koncert w odległości 5km! Dowiedziałem się o tym z internetu, a nie od Pana. Przypominam, że termin Pana koncertu został wpisany do naszego kalendarza 7.11.2024. Aby nie odwoływać koncertu zaproponowałem rozwiązanie, 800 zł, to koszt wynajmu sali z realizatorem dźwięku. Czy to dużo? Nie sądzę. Powinien Pan wiedzieć, że żaden klub, ani instytucja nie zgodzi się na granie 2 koncertów w tak bliskiej odległości w podobnym czasie. Proszę nie siać dezinformacji i nie nastawiać wrogo artystów i publiczności! Używanie takich słów jak: „mobbing, wrogość, ultimatum" są w te sytuacji bezpodstawne. Przykro również, że nie spróbował Pan się ze mną skontaktować i porozmawiać. Oliwski Ratusz Kultury w ramach swojego programu zaprasza artystów także mniej znanych, ale warunek jest jeden, ponieważ nie jest instytucją, która ma dotację na organizację koncertów, muszą się one samofinansować, a przynajmniej nie przynosić strat. Również po to, żeby to miejsce mogło nadal służyć artystom." [link to photo]
+Andrzej Stańko publicly commented: 
+> "Szanowny Panie, po pierwsze scena Oliwskiego Ratusza Kultury utrzymuje się z biletów, a nie z pieniędzy publicznych. Na Pana koncert sprzedało się 5 biletów! Nie poinformował nas Pan, że zaplanowany jest Pana kolejny koncert w odległości 5km! Dowiedziałem się o tym z internetu, a nie od Pana. Przypominam, że termin Pana koncertu został wpisany do naszego kalendarza 7.11.2024. Aby nie odwoływać koncertu zaproponowałem rozwiązanie, 800 zł, to koszt wynajmu sali z realizatorem dźwięku. Czy to dużo? Nie sądzę. Powinien Pan wiedzieć, że żaden klub, ani instytucja nie zgodzi się na granie 2 koncertów w tak bliskiej odległości w podobnym czasie. Proszę nie siać dezinformacji i nie nastawiać wrogo artystów i publiczności! Używanie takich słów jak: „mobbing, wrogość, ultimatum" są w te sytuacji bezpodstawne. Przykro również, że nie spróbował Pan się ze mną skontaktować i porozmawiać. Oliwski Ratusz Kultury w ramach swojego programu zaprasza artystów także mniej znanych, ale warunek jest jeden, ponieważ nie jest instytucją, która ma dotację na organizację koncertów, muszą się one samofinansować, a przynajmniej nie przynosić strat. Również po to, żeby to miejsce mogło nadal służyć artystom."
+
+[link to photo]
 
  ## Analysis of the Stańkos' Claims in Light of Evidence:
 
@@ -102,12 +94,12 @@ A central pillar of this investigation is the alleged financial irregularities s
 - ### Contradictory Public Status:
 Andrzej Stańko publicly claimed that ORK is "maintained by ticket sales, not public money" and "is not an institution that has grants for concert organization" [Source: Deleted Facebook Comment, May 19, 2025, 11 AM]. However, official documents from the National Court Register (KRS) for Fundacja Wspólnota Gdańska (KRS: 0000286430) clearly state that the Fundacja posiada status Organizacji Pożytku Publicznego (OPP) [Source: Odpis Aktualny KRS 0000286430.pdf, Page 1, Rubryka 1, Pole 5]. OPPs in Poland are legally eligible to receive public funds, grants, and tax deductions due to their public interest activities. This directly contradicts Mr. Stańko's public assertions.
 
-- ### Questionable Artist Payments and Alleged Embezzlement:
+- ### Questionable Artist Payments and Alleged Financial Misconduct:
 Further financial irregularities have emerged. A bank transfer confirmation from Fundacja Wspólnota Gdańska (account: 81 1020 1811 0000 0002 0125 1966) to a private musician's account *(name removed for privacy & safety)* for 1856 PLN on *(date removed for privacy & safety)* has been obtained [Source: Bank Transfer Confirmation,]. This amount was allegedly for two musicians, without individual contracts or a clear breakdown, with instructions to "dogadać się między sobą" (sort it out among yourselves) for payment distribution. Mathematical analysis shows that 1856 PLN is not divisible by the 50 PLN ticket price. Even when considering the overall payment to be a percentage of ticket sales (e.g., 80% of 2320 PLN, which is the 'cleanest' result), the resulting total is not a multiple of 50 PLN. This strongly suggests that either other priced tickets (e.g., VIP) were sold without transparency, or there's a more fundamental lack of clarity in compensation and potential undisclosed deductions, raising significant questions about financial transparency and fair payment to artists [Source: Janek Mazur's report to prosecutor, "Analiza matematyczna nieprawidłowości finansowych"].
 
 Moreover, official Fundacja documents, publicly available, allegedly show artists performing at Fundacja events consistently listed as "unpaid labor," despite the institution's reported annual profits reaching millions of zlotys. This raises serious questions about the Fundacja's financial transparency and ethical treatment of artists.
 
-## The Theory of Cultural Grant Embezzlement:
+- ### The Theory of Cultural Grant Embezzlement:
 The pattern of alleged financial discrepancies suggests a potential scheme of "soft corruption" or embezzlement. Fundacja Wspólnota Gdańska, as an OPP, is eligible for and likely applies for public cultural grants with itemized budgets for performers, production costs, and staff. However, the available evidence indicates a discrepancy in how artists are reportedly paid (under the table, less than declared, or not at all), often under the guise of "exposure" or hidden fees. The surplus cash from these funds not paid to artists or used as claimed could potentially be diverted into a private business, such as the co-marital operation in Lniska, used to launder or hide funds.
 
 - If this theory proves true, it could constitute serious offenses under Polish law, including:
