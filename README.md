@@ -166,9 +166,44 @@ Despite formal reports and explicit concerns about my safety, the Academy's Rect
 - ### Bureaucratic Obstruction and Alleged Complicity:
 A glaring conflict of interest emerged when I was twice officially directed by the Gdańsk City Hall's Culture Bureau to report Andrzej Stańko to Fundacja Wspólnota Gdańska, despite his official email being a.stanko@wspolnotagdanska.pl. When I escalated this conflict to the Ministry of Culture and National Heritage, they issued a similar response, stating they lacked competence to resolve "unfair market practices" disputes and redirected me back to the Fundacja or civil courts. This bureaucratic loop suggests a systemic failure to address the core conflict of interest and proper oversight of Public Benefit Organizations. Consequently, I have escalated this matter to the Chairman of the Committee for Public Benefit, awaiting a response.
 
+A Web of Familial Connections: Allegations of Nepotism within Fundacja Wspólnota Gdańska
+A thorough examination of Fundacja Wspólnota Gdańska's personnel reveals a deeply entrenched pattern of recurring surnames in key positions, strongly suggesting systemic nepotism. This structure concentrates power within a limited number of families, raising serious questions about transparency, accountability, and potential conflicts of interest in the management of a Public Benefit Organization that handles public funds.
+
+Key familial clusters identified:
+
+### The Stelmasiewicz Family:
+
+- **Andrzej Stelmasiewicz**: Founder of Fundacja Wspólnota Gdańska, and notably, a current City Councilor (Radny Miasta Gdańska).
+
+- **Ewa Stelmasiewicz-Wegnerowska**: President of the Board of Fundacja Wspólnota Gdańska (likely Andrzej Stelmasiewicz's daughter, as previously indicated).
+
+**Implication**: This places the founder and the highest executive position within the same family, directly linking the foundation to the city's political structure. This connection raises suspicions of potential deep corruption within the Gdańsk city government, as it suggests a high-level conflict of interest that could influence funding and oversight. Public controversies surrounding Andrzej Stelmasiewicz, including accusations of unethically receiving a "Donor of the Year" award and channeling his councilor diets to entities connected to city authorities (including Fundacja Wspólnota Gdańska), further underscore these concerns.
+
+### The Leśniewski Family:
+
+- **Jolanta Leśniewska**: Director of the Fundacja.
+
+- **Dariusz Leśniewski**: Technical Specialist for the Fundacja. (Highly likely to be related to Jolanta).
+
+### The Majchrzakowski Family:
+
+- **Magdalena Majchrzakowska**: Cultural Animator for the Fundacja.
+
+- **Filip Majchrzakowski**: Manager of the Ratusz Bed & Breakfast hostel (part of the Fundacja's operations). (Highly likely to be related to Magdalena).
+
+### The Stańko Family:
+
+- **Andrzej Stańko**: Coordinator of Scenic Events (ORK).
+
+- **Krystyna Stańko**: Professor at the Academy of Music, Andrzej's wife. (This connection is central to the initial concert controversy and the academic conflict of interest).
+
+- **Mikołaj Stańko**: Andrzej and Krystyna's son, involved in the Żukowo incident.
+
+This pervasive pattern of familial connections across management, technical roles, accounting, and even related businesses within the Fundacja creates a framework ripe for potential abuse of power and reduced external scrutiny. It transforms the administrative run-around I experienced into a more sinister suggestion of a system designed to resist accountability.
+
 The complete puzzle suggests that ORK operates through Fundacja Wspólnota Gdańska, a public benefit foundation officially eligible for – and almost certainly receiving – public cultural grants. Meanwhile, performers (including students) are allegedly denied contracts, threatened with penalties, and coerced into playing under exploitative terms, potentially not being paid properly at all. These concerts might be "double-funded": on paper via public grant money, and in practice, with students being charged or made to play for "exposure." Krystyna Stańko, as an Academy professor, allegedly recruits students to perform, directs them to her husband's concerts, and maintains an unchecked conflict of interest. The Rector, despite being informed of abuse and conflict of interest, allegedly ignored or deflected all references, even inviting me onto campus despite my expressed fear. His repeated declarations of the Academy being "not a party" now appear to be a strategic legal shield. This raises questions about whether the Academy gains prestige without paying by outsourcing events to ORK, potentially through informal partnerships, and whether the institution is protecting faculty to avoid reputational damage. The Rector's "mantra" of denial, especially given the silence on the abuse, makes them look evasive and potentially complicit.
 
-The Foundation's own **Statut** [LINK] state its statutory goals include cultural education for young residents of Gdańsk and supporting artistic activities, including promoting and organizing volunteer work. This directly contradicts the coercive tactics, threats, and manipulated finances alleged, implying violations of their legal and ethical mission. If proven, this could lead to their OPP status being revoked.
+The Foundation's own Statut (Bylaws) state its statutory goals include cultural education for young residents of Gdańsk and supporting artistic activities, including promoting and organizing volunteer work. This directly contradicts the coercive tactics, threats, and manipulated finances alleged, implying violations of their legal and ethical mission. If proven, this could lead to their OPP status being revoked.
 
 # The Żukowo Incident & Investigation of *STANJO*
 The most alarming incident occurred on June 6, 2025, at the location of Andrzej Stańko's registered business in Lniska, Żukowo. This incident demonstrates a dangerous escalation of behavior and is a huge pillar in the case.
